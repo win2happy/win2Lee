@@ -1,6 +1,6 @@
 ## HaxExtend with Github Action
 #### 计划
-- Helium 版本研究中
+- [Helium](https://github.com/mybdye/HaxExtend_helium){:target="_blank"} 版本研究中
 
 #### 更新
 - 0328 增加了一丢丢 delay
