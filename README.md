@@ -2,10 +2,13 @@
 #### 计划
 - Helium 版本研究中
 
+#### 更新
+- 0328 增加了一丢丢延迟
+
 #### Secret 增加以下变量
 - ```USERNAME```
 - ```PASSWORD```
-- ```BARKKEY```
+- ```BARKKEY``` (可选)
 #### ```随缘 Extend，Possibly blocked by google```
 
 <img src=./result.jpeg width=50% />
